@@ -1,0 +1,3 @@
+# Arquivo de chaves
+IPO_Outro 0a1b2a3c4a5d6a7b8a90
+# Fim do arquivo de chaves
